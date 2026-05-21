@@ -8,7 +8,7 @@ S.P.I.D.E.R는 스마트팩토리 환경에서 **설비 센서 데이터와 이�
 실시간 데이터 수집부터 AI 기반 분석, 웹 대시보드 시각화까지  
 하나의 흐름으로 연결된 구조를 목표로 설계되었습니다.
 
-[🔗 Spring Github](https://github.com/betterproject-dev/spider_spring) - Java 기반 설비·이력 관리 및 비즈니스 로직 API
+[🔗 Spring Github](https://github.com/betterproject-dev/spider_spring) - Java 기반 설비·이력 관리 및 비즈니스 로직 API <br/>
 [🔗 React Github](https://github.com/jjop2/spider_front.git)
 
 <br/>
